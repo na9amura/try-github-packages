@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+ssh://git@github.com/na9amura/try-github-packages.git"
   },
+  "publishConfig": {
+    "@YOUR-USERNAME:registry": "https://npm.pkg.github.com"
+  },
   "author": "na9amura",
   "license": "MIT",
   "bugs": {
